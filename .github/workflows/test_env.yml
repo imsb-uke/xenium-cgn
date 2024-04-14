@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Setup environment
-        run: conda env create -f environment.yml
+        run: conda env create --name xenium-cgn_env -f environment.yml
