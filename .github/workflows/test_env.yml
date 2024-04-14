@@ -1,4 +1,4 @@
-name: CI
+name: test_env_CI
 
 on:
   push:
@@ -9,9 +9,8 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Setup environment
         run: conda env create -f environment.yml
