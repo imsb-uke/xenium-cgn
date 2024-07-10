@@ -10,11 +10,23 @@ or
 
 ```conda env create --prefix /home/envs/<environment_name> -f environment.yml```
 
-## create kernel for jupyter lab
+## create python kernel for jupyter lab
 
 ```bash
 conda activate <environment_name>
-ipython kernel install --user --name=<kernel_name>
+ipython kernel install --user --name=xen-cgn-py
 conda deactivate
 ```
 Restart jupyterlab to have it available
+
+## create R kernel for jupyter lab
+```bash
+conda activate <environment_name>
+$ R
+```
+An R shell is started
+```R
+install.packages('IRkernel')
+IRkernel::installspec(name = 'xen-cgn-r', displayname = 'xen-cgn-r')
+quit()
+```
