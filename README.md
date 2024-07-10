@@ -22,7 +22,7 @@ Restart jupyterlab to have it available
 ## create R kernel for jupyter lab
 ```bash
 conda activate <environment_name>
-$ R
+R
 ```
 An R shell is started
 ```R
