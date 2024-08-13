@@ -161,3 +161,8 @@ cython_debug/
 
 
 .DS_Store
+data/
+adata/
+figure*
+obs/
+
