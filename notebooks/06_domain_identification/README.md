@@ -7,7 +7,7 @@ epyc/Behnam/xenium-cgn/notebooks/06_domain_identification/adata/adata_nichepca_w
 The columns related to the domain identification in ```aadata.obs``` are:
 
 * ```nichepca_domain```: domains identified by *nichepca* including: *Glom.*, *Prox. Tubule*, and *DistaL Con. Tubule*.
-* ```nichepca_domain_tuned```:
-* ```nichepca_glom_no```:
+* ```nichepca_domain_tuned```: contains the fine tuned domains *Glom.*, and should be used to detect glomerulus.
+* ```nichepca_glom_no```: contains numbers corresponding to glomerulus indicated in ```nichepca_domain_tuned``` column.
 
-sample	label			nichepca_glom_no
+Moreover, the ```aadata.obs``` now has two extra columns as ```sample``` and ```label```.	
