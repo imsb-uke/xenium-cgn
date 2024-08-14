@@ -38,8 +38,8 @@ quit()
 ###
 ZS: I had to install shapely to define periglom regions. Making note here to keep track of additionally needed packages.
 
-#pip install shapely
-Output : 
+## pip install shapely     
+**Output :** 
 Collecting shapely
   Downloading shapely-2.0.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (7.0 kB)
 Requirement already satisfied: numpy<3,>=1.14 in /opt/conda/envs/xen-cgn/lib/python3.11/site-packages (from shapely) (1.24.4)
