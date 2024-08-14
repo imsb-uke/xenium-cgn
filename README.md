@@ -35,10 +35,11 @@ quit()
 
 
 
-###
-ZS: I had to install shapely to define periglom regions. Making note here to keep track of additionally needed packages.
 
-## pip install shapely     
+## Additionally needed packages.
+ZS: I had to install shapely to define periglom regions. 
+
+### pip install shapely     
 **Output :** 
 Collecting shapely
   Downloading shapely-2.0.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (7.0 kB)
