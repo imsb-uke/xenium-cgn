@@ -17,6 +17,7 @@ An anndata with more details is further saved in
 epyc/Behnam/xenium-cgn/notebooks/06_domain_identification/adata/adata_nichepca_with_domain_tuned_v2.h5ad
 ```
 with the following columns being added:
+
 *```nichepca_all_slide_leiden_{resolution}```: NichePCA results calculated on the whole slides together.
 *```nichepca_per_slide_leiden_{resolution}```: NichePCA results calculated on each slide separatly.
 
