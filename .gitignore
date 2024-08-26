@@ -168,4 +168,5 @@ obs/
 
 *.tiff
 *.h5ad
+*.png
 elastix/
