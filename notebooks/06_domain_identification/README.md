@@ -18,8 +18,8 @@ epyc/Behnam/xenium-cgn/notebooks/06_domain_identification/adata/adata_nichepca_w
 ```
 with the following columns being added:
 
-*```nichepca_all_slide_leiden_{resolution}```: NichePCA results calculated on the whole slides together.
-*```nichepca_per_slide_leiden_{resolution}```: NichePCA results calculated on each slide separatly.
+* ```nichepca_all_slide_leiden_{resolution}```: NichePCA results calculated on the whole slides together.
+* ```nichepca_per_slide_leiden_{resolution}```: NichePCA results calculated on each slide separatly.
 
 **Note:** the columns ```nichepca_domain```, ```nichepca_domain_tuned```, and ```nichepca_glom_no``` are obtaned based on *per-slide* analysis.
 
