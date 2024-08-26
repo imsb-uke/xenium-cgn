@@ -166,3 +166,6 @@ adata/
 figure*
 obs/
 
+*.tiff
+*.h5ad
+elastix/
