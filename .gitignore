@@ -167,6 +167,7 @@ figure*
 obs/
 
 *.tiff
+*.tif
 *.h5ad
 *.png
 elastix/
