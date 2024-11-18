@@ -171,3 +171,4 @@ obs/
 *.h5ad
 *.png
 elastix/
+*.pdf
