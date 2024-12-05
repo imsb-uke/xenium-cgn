@@ -1,4 +1,9 @@
-## Attaching biopsy IDs and removing obvious folds
-1. The path to object: ```/data/projects/robin/segmentation/xenium_outs/merged_processed_cleaned.h5ad```. Columns: ```Biopsy_ID```
+## Processing and sample annotations
 
-2. Reduced object: ```/data/projects/robin/segmentation/xenium_outs/merged_processed_cleaned_reduced.h5ad```
+Includes scripts to clean up folded biopsy regions and image-blurs after annotating them on DAPI images in Napari. Run following scripts in order.
+
+1. `process.ipynb`
+2. `annotate_biopsies.ipynb`
+
+
+In the working directly, the .h5ad object will be saved at `xenium_outs/merged_processed_cleaned.h5ad`.
