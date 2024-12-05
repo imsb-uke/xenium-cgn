@@ -1,5 +1,9 @@
-# Cell type annotation
-1. The path to annotated data (before integration - UMAP): ```/data/projects/robin/segmentation/xenium_outs/merged_processed_before_integration.h5ad```. 
-Columns: ```celltype_l1```, confidence: ```celltype_l1_prob```
-2. The path to annotated data (with UMAP and DAPI images attached): ```/data/projects/robin/segmentation/xenium_outs/merged_processed.h5ad```. Images are added with ```library_id={Slide_ID}``` and ```dapi_LEVEL1={img_key}```.
+## Processing and sample annotations
 
+Includes scripts to clean up folded biopsy regions and image-blurs after annotating them on DAPI images in Napari. Run following scripts in order.
+
+1. `classify_finer_immune.ipynb`
+2. `add_dapi_level1.ipynb`
+
+
+In the working directly, the .h5ad object will be saved at `xenium_outs/merged_processed.h5ad`.
