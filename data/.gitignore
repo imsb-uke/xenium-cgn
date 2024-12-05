@@ -1,2 +1,6 @@
 *
 !.gitignore
+!raw
+!transcripts_codes
+!outputs
+!xenium_outs
