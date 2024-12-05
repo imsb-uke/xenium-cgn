@@ -32,21 +32,3 @@ install.packages('IRkernel')
 IRkernel::installspec(name = 'xen-cgn-r', displayname = 'xen-cgn-r')
 quit()
 ```
-
-
-
-
-## Additionally needed packages.
-ZS: I had to install shapely to define periglom regions. 
-
-### pip install shapely     
-**Output :** 
-Collecting shapely
-  Downloading shapely-2.0.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (7.0 kB)
-Requirement already satisfied: numpy<3,>=1.14 in /opt/conda/envs/xen-cgn/lib/python3.11/site-packages (from shapely) (1.24.4)
-Downloading shapely-2.0.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.5 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.5/2.5 MB 7.8 MB/s eta 0:00:0000:0100:01
-Installing collected packages: shapely
-Successfully installed shapely-2.0.5
-Note: you may need to restart the kernel to use updated packages.
-#####
