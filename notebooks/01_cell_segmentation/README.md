@@ -8,5 +8,5 @@ Includes scripts to refine cell segmentation with Baysor. Run following scripts 
 4. `prepare_anndata.ipynb`
 5. `merge_objects.ipynb`
 
-
-In the working directly, the .h5ad object will be saved at `xenium_outs/merged_raw.h5ad` and the cell boundaries will be saved at `merged_raw.h5ad`.
+The input required is the raw Xenium out in folder `data/raw` at the root of repository. Segmentation results including cell boundaries will be saved in folder `data/outputs` 
+The raw .h5ad object containing all gene expression data will be saved at `data/xenium_outs/merged_raw.h5ad`.
