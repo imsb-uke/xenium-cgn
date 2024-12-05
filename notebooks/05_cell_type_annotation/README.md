@@ -6,4 +6,4 @@ Includes scripts to clean up folded biopsy regions and image-blurs after annotat
 2. `add_dapi_level1.ipynb`
 
 
-In the working directly, the .h5ad object will be saved at `xenium_outs/merged_processed.h5ad`.
+In the working directly, the .h5ad object will be saved at `xenium_outs/merged_processed_classified.h5ad`.
