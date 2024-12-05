@@ -1,8 +1,6 @@
-# xenium-cgn
-Subcellular resolution immune landscape of glomerular tranjectories in auto immune kidney diseases
+# Sequential activation of PDGF- and TGF-β-signaling in the spatial context of glomerular crescent formation in kidney autoimmunity
 
-This repository includes code used for the analysis of data included in the manuscript "Subcellular resolution immune landscape of glomerular tranjectories in auto immune kidney diseases".
-
+The repository contains the code to perform analysis included in the manuscript. The jupyter notebooks and associated scripts are available in the folder "notebooks".
 
 ## Dependencies
 The required Python packages are specified in the environment.yml file. To set up the environment:
