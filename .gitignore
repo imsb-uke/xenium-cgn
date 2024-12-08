@@ -172,3 +172,5 @@ obs/
 *.png
 elastix/
 *.pdf
+
+tmp/
