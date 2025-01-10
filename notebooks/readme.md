@@ -8,4 +8,4 @@ We dedicate a directory for each part of the analysis:
 04. preprocessing
 05. cell_type_annotation
 06. domain_identification
-07. preglom_annotation
+07. periglom_annotation
