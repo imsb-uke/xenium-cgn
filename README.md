@@ -10,10 +10,7 @@ The required Python packages are specified in the environment.yml file. To set u
 Citation
 --------
 
-
-Please cite the publication as follows:
-
-   **Spatiotemporal interaction of immune and renal cells controls glomerular crescent formation in autoimmune kidney disease**
+**Spatiotemporal interaction of immune and renal cells controls glomerular crescent formation in autoimmune kidney disease**
 
    Zeba Sultana, Robin Khatri, Behnam Yousefi, Nikhat Shaikh, Saskia L. Jauch-Speer, Darius P. Schaub, Jonas Engesser, Malte Hellmig, Vincent Piegsa, Arthur Hube, Varshi Sivayoganathan, Alina Borchers, Anett Peters, Anna Kaffke, Stephanie Zielinski, Hans-Joachim Paust, Thiago Goldbeck-Strieder, Ulrich O. Wenzel, Victor G. Puelles, Elion Hoxha, Thorsten Wiech, Catherine Meyer-Schwesinger, Tobias B. Huber, Ulf Panzer, Stefan Bonn & Christian F. Krebs
 
