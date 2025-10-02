@@ -14,5 +14,5 @@ Citation
 
    Zeba Sultana, Robin Khatri, Behnam Yousefi, Nikhat Shaikh, Saskia L. Jauch-Speer, Darius P. Schaub, Jonas Engesser, Malte Hellmig, Vincent Piegsa, Arthur Hube, Varshi Sivayoganathan, Alina Borchers, Anett Peters, Anna Kaffke, Stephanie Zielinski, Hans-Joachim Paust, Thiago Goldbeck-Strieder, Ulrich O. Wenzel, Victor G. Puelles, Elion Hoxha, Thorsten Wiech, Catherine Meyer-Schwesinger, Tobias B. Huber, Ulf Panzer, Stefan Bonn & Christian F. Krebs
 
-   *Nature Immunology* 2025  doi: `10.1038/s41590-025-02291-8 <https://doi.org/10.1038/s41590-025-02291-8>`_.
+   *Nature Immunology* 2025  doi: [10.1038/s41590-025-02291-8](https://doi.org/10.1038/s41590-025-02291-8).
 
